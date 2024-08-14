@@ -1,8 +1,5 @@
 # harrsh-s-portfolio
 
-Here's a draft for the content of your portfolio website:
-
----
 
 Welcome to My Portfolio
 
